@@ -1,0 +1,6 @@
+@HandsOnAPIWithEFCodeFirst_HostAddress = http://localhost:5160
+
+GET {{HandsOnAPIWithEFCodeFirst_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
